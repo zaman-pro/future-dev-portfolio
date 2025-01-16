@@ -44,6 +44,8 @@ body {
 }
 
 main > section {
+  width: 1140px;
+  margin: 0 auto;
   margin-top: 75px;
   /* border: 1px solid red; */
 }
