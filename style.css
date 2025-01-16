@@ -1,0 +1,50 @@
+/* uni shared style here*/
+@import url("https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Azeret Mono", serif;
+  font-weight: normal;
+  font-style: normal;
+  line-height: normal;
+  background-color: #fff;
+}
+
+.sec-btn {
+  color: #0d1321;
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+/* navbar style here*/
+.nav-bar {
+  width: 1440px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* border: 1px solid red; */
+  padding: 40px 150px;
+}
+
+.nav-logo {
+  color: #0d1321;
+  font-size: 1.75rem;
+  font-weight: 800;
+}
+
+.nav-btn {
+  border: 1px solid #0d1321;
+  padding: 17px 24px;
+  opacity: 0.8;
+}
+
+/* header style here */
